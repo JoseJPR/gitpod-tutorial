@@ -8,19 +8,24 @@ This tutorial is focused on analyzing the possibilities that this platform of wo
 
 ## 📌 Methodologies and Guidelines
 
-ESTlint, tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. \
+List of methodologies and tools used in this project for compliance with Quality Assurance Code (QAC)
+
+* TypeScript, These projects provide templates which include TypeScript support. \
+  [NPM TypeScript](https://www.npmjs.com/package/typescript) 
+
+* ESTlint, tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. \
   [NPM ESLint](https://www.npmjs.com/package/eslint) \
   [NPM ESLint | Airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
 
 ## 📐 Infrastructure
 
-### Install NodeJS Dependences
+### 1️⃣ Install NodeJS Dependences
 
 ```bash
 $npm i
 ```
 
-### Running the App
+### 2️⃣ Running the App
 
 ```bash
 $node app.js
@@ -32,5 +37,5 @@ Created with JavaScript, lot of ❤️ and a few ☕️
 
 ## This README.md file has been written keeping in mind
 
-- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
