@@ -4,6 +4,7 @@
   "description": "This tutorial is focused on analyzing the possibilities that this platform of working with an online editor offers us.",
   "main": "app.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
