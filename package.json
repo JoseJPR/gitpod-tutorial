@@ -2,7 +2,7 @@
   "name": "gitpod-tutorial",
   "version": "1.0.0",
   "description": "This tutorial is focused on analyzing the possibilities that this platform of working with an online editor offers us.",
-  "main": "app.js",
+  "main": "./build/app.js",
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoseJPR/gitpod-tutorial/issues"
   },
-  "homepage": "https://github.com/JoseJPR/gitpod-tutorial#readme"
+  "homepage": "https://github.com/JoseJPR/gitpod-tutorial#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
 }
