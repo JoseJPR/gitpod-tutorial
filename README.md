@@ -12,6 +12,7 @@ This tutorial is focused on analyzing the possibilities that this platform of wo
 * [How to register the commit and push in Github directly](https://twitter.com/JoseJ_PR/status/1200467861266931712)
 * [Configure your NPM project from Gitpod with its own terminal](https://twitter.com/JoseJ_PR/status/1200755146394865664)
 * [How to update NodeJS to version "v13.2.0"](https://twitter.com/JoseJ_PR/status/1201077915477270528)
+* [How to add TypeScript in your NodeJS project from Gitpod and compile.](https://twitter.com/JoseJ_PR/status/1202687843828731904)
 
 ## 📌 Methodologies and Guidelines
 
