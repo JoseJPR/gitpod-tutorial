@@ -2,10 +2,11 @@
   "name": "gitpod-tutorial",
   "version": "1.0.0",
   "description": "This tutorial is focused on analyzing the possibilities that this platform of working with an online editor offers us.",
-  "main": "./build/app.js",
+  "main": ".build/app.js",
   "scripts": {
-    "start": "node .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc & node .",
+    "tsc": "./node_modules/typescript/bin/tsc",
+    "eslint": "./node_modules/.bin/eslint app.ts"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,15 @@
     "url": "https://github.com/JoseJPR/gitpod-tutorial/issues"
   },
   "homepage": "https://github.com/JoseJPR/gitpod-tutorial#readme",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  },
   "devDependencies": {
-    "@types/node": "^12.12.14"
+    "@types/node": "^12.12.14",
+    "@typescript-eslint/eslint-plugin": "^2.10.0",
+    "@typescript-eslint/parser": "^2.10.0",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
