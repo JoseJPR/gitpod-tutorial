@@ -51,7 +51,7 @@ $npm i
 This project includes TypeScript and it is necessary to compile it.
 
 ```bash
-$npm build
+$npm run build
 ```
 
 ### 3️⃣ Development
@@ -59,7 +59,7 @@ $npm build
 To run the project locally and to develop you will have to execute the following command _(You will see a message on your terminal with the address and port of the local server)_:
 
 ```bash
-$npm start
+$npm run start
 ```
 
 ### 4️⃣ Lint
@@ -67,7 +67,7 @@ $npm start
 This include Eslint project you can perform a code test.
 
 ```bash
-$npm lint
+$npm run lint
 ```
 
 ## Happy Code
