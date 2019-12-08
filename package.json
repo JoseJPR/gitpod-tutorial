@@ -4,9 +4,9 @@
   "description": "This tutorial is focused on analyzing the possibilities that this platform of working with an online editor offers us.",
   "main": ".build/app.js",
   "scripts": {
-    "start": "tsc & node .",
-    "tsc": "./node_modules/typescript/bin/tsc",
-    "eslint": "./node_modules/.bin/eslint app.ts"
+    "start": "node .",
+    "build": "./node_modules/typescript/bin/tsc",
+    "lint": "./node_modules/.bin/eslint app.ts"
   },
   "repository": {
     "type": "git",

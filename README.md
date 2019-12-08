@@ -38,7 +38,7 @@ In order to work with this project, your local environment must have at least th
 
 You have to do the following steps to be able to work with this project.
 
-### 1️⃣ Install NodeJS Dependences
+### 1️⃣ Install
 
 To work with this project locally and to be able to deploy in different environments it is necessary to install the NPM dependencies.
 
@@ -46,12 +46,28 @@ To work with this project locally and to be able to deploy in different environm
 $npm i
 ```
 
-### 2️⃣ Development
+### 2️⃣ Build
+
+This project includes TypeScript and it is necessary to compile it.
+
+```bash
+$npm build
+```
+
+### 3️⃣ Development
 
 To run the project locally and to develop you will have to execute the following command _(You will see a message on your terminal with the address and port of the local server)_:
 
 ```bash
 $npm start
+```
+
+### 4️⃣ Lint
+
+This include Eslint project you can perform a code test.
+
+```bash
+$npm lint
 ```
 
 ## Happy Code
