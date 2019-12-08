@@ -13,6 +13,8 @@ This tutorial is focused on analyzing the possibilities that this platform of wo
 * [Configure your NPM project from Gitpod with its own terminal](https://twitter.com/JoseJ_PR/status/1200755146394865664)
 * [How to update NodeJS to version "v13.2.0"](https://twitter.com/JoseJ_PR/status/1201077915477270528)
 * [How to add TypeScript in your NodeJS project from Gitpod and compile.](https://twitter.com/JoseJ_PR/status/1202687843828731904)
+    * [Bonus: How to add Typescript with a local and not global installation.](https://twitter.com/JoseJ_PR/status/1203584180153655297)
+* [How to add Eslint with the Airbnb variant in your project with Gitpod](https://twitter.com/JoseJ_PR/status/1203590232467263488)
 
 ## 📌 Methodologies and Guidelines
 
