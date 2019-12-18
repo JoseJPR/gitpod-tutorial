@@ -2,7 +2,7 @@
   "name": "gitpod-tutorial",
   "version": "1.0.0",
   "description": "This tutorial is focused on analyzing the possibilities that this platform of working with an online editor offers us.",
-  "main": ".build/app.js",
+  "main": "./build/app.js",
   "scripts": {
     "start": "node .",
     "build": "./node_modules/typescript/bin/tsc",
